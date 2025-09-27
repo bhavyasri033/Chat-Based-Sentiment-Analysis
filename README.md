@@ -20,7 +20,7 @@ The project includes both **model training** and an **interactive chat-based int
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 - The dataset used contains text messages labeled as **Positive, Negative, or Neutral**.  
 - Preprocessing steps included:  
   - Converting emojis to text  
@@ -104,15 +104,6 @@ Handling **emojis** added significant improvements to sentiment detection in cas
 
 ---
 
-##  Usage  
-```bash
-# Clone repo
-git clone https://github.com/your-username/chat-sentiment-analysis.git
-cd chat-sentiment-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python sentiment_analysis_(project).py
-
+##  Author
+Bhavyasri Chapalamadugu  
+[LinkedIn Profile](https://www.linkedin.com/in/bhavyasri-ch)
